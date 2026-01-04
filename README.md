@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, there!
 
-<!--
-**tjdrhr02/tjdrhr02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My works:
+- low-level packet capture modules written in C,
+- Eclipse RCP-based desktop modules,
+- backend services built with Spring,
+- and designing software architectures for enterprise solutions.
 
-Here are some ideas to get you started:
+I have experience collaborating with overseas developers
+and enjoy working on complex systems where performance,
+reliability, and correctness matter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I work with
+- C / Java / Python / Flutter / Go / RCP / 
+- Distributed & System-level Software
+- Spring Backend Systems
+- Testing & Verification
+- Software Architectures
+
+---
+
+### What I'm interested in
+- Applying AI to real-world software products
+- Cloud-based AI model serving and inference pipelines
+- Edge–Cloud distributed intelligent systems
+- Robot software and autonomous systems
+- Building practical AI-powered services
+
+I believe strong fundamentals in computer science
+and software engineering are essential
+to building reliable AI-driven systems.
